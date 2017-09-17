@@ -1,1 +1,1 @@
-# hello-world
+# hello-world this repository its only decicated to C
